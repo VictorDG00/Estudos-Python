@@ -1,5 +1,10 @@
 # Variaveis 
 
+## Rules
+Variaveis so podem conter letras numeros e _, podem comecar com letras ou _ mas nao com numeros
+
+Existem palavras reservadas que nao podem ser usadas como nome de variavel, ex: print
+
 #### Simples
 nome = tipo
 
@@ -76,3 +81,9 @@ nome = "Ana"
 idade = 30
 print(f"Meu nome é {nome} e tenho {idade} anos")
 ```
+
+# Pesquisar
+
+Traceback do interpretador python
+  
+comando com contra barra \n \t 
