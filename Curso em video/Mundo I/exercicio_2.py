@@ -1,9 +1,7 @@
 '''
-Cria um script Python que laia o dia, o mês e o ano da nascimento de uma pessoa a mostre uma mensagem com a data formatada.
-
+Cria um script Python qua laia o noma de uma pessoa a mostra uma mensagem de boas-vindas de acordo com o valor digitado.
+Use fString
 Ex:
-Dia = 17
-Mes = Mar
-Ano 1978
-Você nasceu no dia 17 de Mar de 1978 Correto?
+Qual é o seu nome? Gustavo
+Olá Gustavo! Prazer em te conhecer!
 '''
