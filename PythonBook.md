@@ -1,3 +1,14 @@
+# Variaveis 
+
+#### Simples
+nome = tipo
+
+#### Listas
+#### Tuplas
+#### Conjunto | set
+#### Dicionario 
+
+
 # Tipos primitvos
 
 #### int | Inteiro
@@ -32,7 +43,12 @@ Uma string é uma sequência ordenada de caracteres — que pode incluir letras,
 ``` Python 3.14
 nome: str = 'Victor'
 ```
+#### Nulo
 
+# Tipos Especiais
+
+#### Byte
+#### Range
 ---
 
 # F-strings
