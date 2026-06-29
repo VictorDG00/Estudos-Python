@@ -118,7 +118,9 @@ print(f"Meu nome é {nome} e tenho {idade} anos")
 | and | e | True and False | True |
 | or | ou | True or False | True |
 | not | nao | not True | False |
+
 ---
+
 # Pesquisar
 
 Traceback do interpretador Python
