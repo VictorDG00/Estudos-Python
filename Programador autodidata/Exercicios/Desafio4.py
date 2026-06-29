@@ -1,0 +1,1 @@
+# 4. Escreva um programa que exiba uma mensagem se uma variavel for menor do que 10 e outra mensagem se a varaiavel for maior ou igual a 10

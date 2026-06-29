@@ -1,0 +1,1 @@
+# 1. Adicione treinar programacao no seu to-do diario

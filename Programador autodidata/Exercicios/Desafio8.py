@@ -1,0 +1,1 @@
+# 8. Escreva um programa com uma variavel `age` que receba um inteiro e exiba string diferentes dependendo de que inteiro `age` receber.

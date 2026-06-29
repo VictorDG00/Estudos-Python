@@ -1,0 +1,1 @@
+# 7. Crie um programa que receba duas variaveis, as divida, e exiba o quociente.

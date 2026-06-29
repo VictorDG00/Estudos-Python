@@ -1,0 +1,1 @@
+# 6. Crie um programa que divida duas variaveis e exiba o resto
