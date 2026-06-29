@@ -53,6 +53,7 @@ nome: str = 'Victor'
 # Tipos Especiais
 
 ### Byte
+
 ### Range
 
 ---

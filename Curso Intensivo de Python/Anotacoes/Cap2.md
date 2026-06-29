@@ -16,5 +16,10 @@ Ex: Albert Einstein certa vez disse: "Uma pessoa que nunca cometeu um erro jamai
 
 2.7 Removendo caracteres em branco de nome: Armazene o nome de uma pessoa e inclua alguns caracteres em branco no inicio e no final do nome. Lembres-se de usar uma combinacao de caracteres, \t e \n, pelo menos uma vez
 
-2.8
-2.9
+2.8 Número oito: Escreve operações de adição, subtração, multiplicação e divisão, que resultem no número 8. você deve criar quartro linhas como está: print(5+3). Sua saida deve simplesmente ser composta de quatro linhas, com o número 8 em cada uma das linhas
+
+2.9 Número Favorito: Armazene seus números favoritos em uma variável. Em seguida, usando essa variável, crie uma mensagem que revele o seu número favorito. exiba essa mensagem
+
+2.10 Acrescentando comentário: escolha dois dos programas que você escreveu e acrescente pelo menos um comentário em cada um. Se você não tiver nada específico para escrever porque o prgrama é muito simples no momento , basta adicionar seu nome e data de hoje no inicio de cada arquivo de programa. Em seguida, escreva uma frase que descreva o que programa faz.
+
+2.11 Zen de Python: Digite import this em uma sessão de terminal de python e dê uma olhada nos princípios adicionais
