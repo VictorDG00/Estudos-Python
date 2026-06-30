@@ -91,6 +91,19 @@ print(f"Meu nome é {nome} e tenho {idade} anos")
 
 ### Aritimeticos
 
+operando o numero dentro do calculo 
+
+Operando Operador Operando
+   3        +        3
+
+Ordem de precedencia
+
+1° ()
+2° **
+3° * / // %
+4° + -
+
+
 | Operador | Significado | Exemplo | Resultado |
 | ------------ | ------------- | ------------- | ------------- |
 | ** | Expoente | 2 ** 2 | 4 |
